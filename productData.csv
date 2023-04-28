@@ -1,0 +1,102 @@
+user_id,productId,type,color,category,brand,paid_ad,discount,location_store,price,store_name,product_sizes,rating
+1,1,shirt,red,cotton,adidas,advertised,discounted,jenen,100,jenz,xl,5
+2,2,trouser,black ,silk,nike,not advertised,not discounted,nablus,22,smalllarge,l,3
+3,3,hat,white,  linen,Louis Vuitton ,not advertised,not discounted,ramallah,30,testing,s,5
+4,4,shirt,yellow,  wool,Hermes,advertised,discounted,gaza,10,testtt,m,4
+5,5,shirt,orange,  chiffon,Zalando,advertised,not discounted,betai,40,smalwww,xxl,1
+2,6,trouser,green,  acrylic,Zara,advertised,not discounted,jenen,20,wwas,xl,5
+2,7,hat,gray,  organza,Dior,not advertised,discounted,nablus,200,olasd,s,5
+2,8,trouser,blue,  nylon,adidas,not advertised,not discounted,ramallah,31,jeme,l,5
+3,9,shirt,red,cotton,nike,advertised,not discounted,gaza,60,jenz,m,5
+3,10,shirt,black ,silk,Louis Vuitton ,advertised,discounted,betai,40,smalllarge,m,4
+3,11,trouser,white,  linen,Hermes,advertised,not discounted,jenen,54,testing,xl,5
+1,12,hat,yellow,  wool,Zalando,not advertised,not discounted,nablus,45,testtt,s,4
+1,13,shirt,orange,  chiffon,Zara,not advertised,discounted,ramallah,55,smalwww,l,5
+1,14,shirt,green,  acrylic,Dior,advertised,not discounted,gaza,50,wwas,xl,5
+2,15,trouser,gray,  organza,adidas,advertised,not discounted,betai,100,olasd,l,5
+2,16,hat,blue,  nylon,nike,advertised,discounted,jenen,22,jeme,s,5
+2,17,trouser,red,cotton,Louis Vuitton ,not advertised,not discounted,nablus,30,jenz,m,5
+3,18,shirt,black ,silk,Hermes,not advertised,not discounted,ramallah,10,smalllarge,xxl,5
+3,19,shirt,white,  linen,Zalando,advertised,discounted,gaza,40,testing,xl,5
+2,20,trouser,yellow,  wool,Zara,advertised,not discounted,betai,20,testtt,s,5
+2,21,hat,orange,  chiffon,Dior,advertised,not discounted,jenen,200,smalwww,l,5
+2,23,shirt,green,  acrylic,adidas,not advertised,discounted,nablus,31,wwas,m,5
+4,22,shirt,gray,  organza,nike,not advertised,not discounted,ramallah,60,olasd,m,5
+3,24,trouser,blue,  nylon,Louis Vuitton ,advertised,not discounted,gaza,40,jeme,xl,1
+3,25,hat,red,cotton,Hermes,advertised,discounted,betai,54,jenz,s,5
+3,65,trouser,black ,silk,Zalando,advertised,not discounted,jenen,45,smalllarge,l,5
+3,55,shirt,white,  linen,Zara,not advertised,not discounted,nablus,55,testing,xl,5
+4,44,shirt,yellow,  wool,Dior,not advertised,discounted,ramallah,50,testtt,l,5
+1,222,trouser,orange,  chiffon,adidas,advertised,not discounted,gaza,100,smalwww,s,4
+1,525,hat,green,  acrylic,nike,advertised,not discounted,betai,22,wwas,m,5
+1,582,shirt,gray,  organza,Louis Vuitton ,advertised,discounted,jenen,30,olasd,xxl,1
+4,235,shirt,blue,cotton,Hermes,not advertised,not discounted,nablus,10,jeme,xl,4
+3,33,trouser,red,silk,Zalando,not advertised,not discounted,ramallah,40,jenz,s,5
+3,38,hat,black ,  linen,Zara,advertised,discounted,gaza,20,smalllarge,l,1
+4,39,trouser,white,  wool,Dior,advertised,not discounted,betai,200,testing,m,5
+4,69,shirt,yellow,  chiffon,adidas,advertised,not discounted,jenen,31,testtt,m,1
+4,61,shirt,orange,  acrylic,nike,not advertised,discounted,nablus,60,smalwww,xl,5
+2,60,trouser,green,  organza,Louis Vuitton ,not advertised,not discounted,ramallah,40,wwas,s,1
+2,88,hat,gray,cotton,Hermes,advertised,not discounted,gaza,54,olasd,l,5
+2,99,shirt,blue,silk,Zalando,advertised,discounted,betai,45,jeme,xl,1
+5,111,shirt,red,  linen,Zara,advertised,not discounted,jenen,55,jenz,l,4
+5,101,trouser,black ,  wool,Dior,not advertised,not discounted,nablus,50,smalllarge,s,5
+5,178,hat,white,  chiffon,adidas,not advertised,discounted,ramallah,100,testing,m,1
+1,198,trouser,yellow,  acrylic,nike,advertised,not discounted,gaza,22,testtt,xxl,5
+1,645,shirt,orange,  organza,Louis Vuitton ,advertised,not discounted,betai,30,smalwww,xl,2
+1,574,shirt,green,  nylon,Hermes,advertised,discounted,jenen,10,wwas,s,3
+3,225,trouser,gray,cotton,Zalando,not advertised,not discounted,nablus,40,olasd,l,5
+3,3654,hat,blue,silk,Zara,not advertised,not discounted,ramallah,20,jeme,m,1
+3,458,shirt,red,  linen,Dior,advertised,discounted,gaza,200,jeme,m,5
+3,24521,shirt,black ,  wool,adidas,advertised,not discounted,betai,31,jenz,xl,4
+5,562,trouser,white,  chiffon,nike,advertised,not discounted,jenen,60,smalllarge,s,5
+5,578,hat,yellow,  acrylic,Louis Vuitton ,not advertised,discounted,nablus,40,testing,l,5
+1,211,trouser,orange,  organza,Hermes,not advertised,not discounted,ramallah,54,testtt,xl,1
+1,2365,shirt,green,  nylon,Zalando,advertised,not discounted,gaza,45,smalwww,l,5
+1,99,shirt,gray,cotton,Zara,advertised,not discounted,betai,55,wwas,s,5
+5,90,trouser,blue,silk,Dior,advertised,not discounted,jenen,50,olasd,m,5
+5,98,hat,red,  linen,adidas,not advertised,discounted,nablus,100,jeme,xxl,1
+2,91,shirt,black ,  wool,nike,not advertised,not discounted,ramallah,22,jenz,xl,1
+2,92,shirt,white,  chiffon,Louis Vuitton ,advertised,not discounted,gaza,30,smalllarge,s,5
+2,93,trouser,yellow,  acrylic,Hermes,advertised,discounted,betai,10,testing,l,3
+5,122,hat,orange,  organza,Zalando,advertised,not discounted,jenen,40,testtt,m,5
+5,144,trouser,green,  nylon,Zara,not advertised,not discounted,nablus,20,smalwww,m,1
+5,155,shirt,gray,cotton,Dior,not advertised,discounted,ramallah,200,wwas,xl,5
+1,166,shirt,blue,silk,adidas,advertised,not discounted,gaza,31,olasd,s,1
+1,177,trouser,red,  linen,nike,advertised,not discounted,betai,60,jeme,l,5
+1,188,hat,black ,  wool,Louis Vuitton ,advertised,discounted,jenen,40,jenz,xl,5
+4,199,shirt,white,  chiffon,Hermes,not advertised,not discounted,nablus,54,smalllarge,l,1
+4,211,shirt,yellow,  acrylic,Zalando,not advertised,not discounted,ramallah,45,testing,s,1
+2,255,trouser,orange,  organza,Zara,advertised,discounted,gaza,55,testtt,m,5
+2,223,hat,green,  nylon,Dior,advertised,not discounted,betai,50,smalwww,xxl,2
+2,522,trouser,gray,cotton,adidas,advertised,not discounted,jenen,100,wwas,xl,1
+4,269,shirt,blue,silk,nike,not advertised,discounted,nablus,22,olasd,s,5
+4,2878,shirt,red,  linen,Louis Vuitton ,not advertised,not discounted,ramallah,30,jeme,l,5
+4,859,trouser,black ,  wool,Hermes,advertised,not discounted,gaza,10,jenz,m,5
+4,895,hat,white,  chiffon,Zalando,advertised,discounted,betai,40,smalllarge,m,5
+1,485,shirt,yellow,  acrylic,Zara,advertised,not discounted,jenen,20,testing,xl,5
+1,262,shirt,orange,  organza,Dior,not advertised,not discounted,nablus,200,testtt,s,5
+1,26541,trouser,green,  nylon,adidas,not advertised,not discounted,ramallah,31,smalwww,l,5
+4,888,hat,gray,cotton,nike,advertised,not discounted,gaza,60,wwas,xl,5
+4,897,trouser,blue,silk,Louis Vuitton ,advertised,discounted,betai,40,olasd,l,1
+4,5862,shirt,red,  linen,Hermes,advertised,not discounted,jenen,54,jeme,s,5
+3,5252,shirt,black ,  wool,Zalando,not advertised,not discounted,nablus,45,jenz,m,1
+3,3461,trouser,white,  chiffon,Zara,not advertised,discounted,ramallah,55,smalllarge,xxl,2
+4,2853,hat,yellow,  acrylic,Dior,advertised,not discounted,gaza,50,testing,xl,5
+4,56964,shirt,orange,  organza,adidas,advertised,not discounted,betai,100,testtt,s,5
+1,2122,shirt,green,  nylon,nike,advertised,discounted,jenen,22,smalwww,l,5
+1,6325,trouser,gray,cotton,Louis Vuitton ,not advertised,not discounted,nablus,30,wwas,m,1
+1,84,hat,blue,silk,Hermes,not advertised,not discounted,ramallah,10,olasd,m,1
+5,77,trouser,red,  linen,Zalando,advertised,discounted,gaza,40,jeme,xl,1
+5,74,shirt,black ,  wool,Zara,advertised,not discounted,betai,20,jenz,s,5
+3,71,shirt,white,  chiffon,Dior,advertised,not discounted,jenen,200,smalllarge,l,1
+3,75,trouser,yellow,  acrylic,adidas,not advertised,discounted,nablus,31,testing,xl,1
+4,72,hat,orange,  organza,nike,not advertised,not discounted,ramallah,60,testtt,l,1
+4,73,shirt,green,  nylon,Louis Vuitton ,advertised,not discounted,gaza,40,smalwww,s,5
+1,777,shirt,gray,cotton,Hermes,advertised,discounted,betai,54,wwas,m,5
+1,775,trouser,blue,silk,Zalando,advertised,not discounted,jenen,45,olasd,xxl,3
+1,779,hat,red,  linen,Zara,not advertised,not discounted,nablus,55,jeme,xl,5
+2,7751,trouser,black ,  wool,Dior,not advertised,discounted,ramallah,50,jenz,s,4
+2,77526,shirt,white,cotton,adidas,advertised,not discounted,gaza,100,smalllarge,l,2
+2,5574,shirt,yellow,silk,nike,advertised,not discounted,betai,22,testing,m,1
+,,,,, ,,,,,,,

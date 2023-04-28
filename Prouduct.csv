@@ -1,0 +1,101 @@
+productId,type,color,specifications,brand,paid_ad,discount,location
+1,t-shirt,red,cotton,adidas,advertised,discounted,jenen
+2,trouser,black ,silk,nike,not advertised,not discounted,nablus
+3,hat,white,  linen,Louis Vuitton ,not advertised,not discounted,ramallah
+4,t-shirt,yellow,  wool,Hermes,advertised,discounted,gaza
+5,t-shirt,orange,  chiffon,Zalando,advertised,not discounted,betai
+6,trouser,green,  acrylic,Zara,advertised,not discounted,jenen
+7,hat,gray,  organza,Dior,not advertised,discounted,nablus
+8,trouser,blue,  nylon,adidas,not advertised,not discounted,ramallah
+9,t-shirt,red,cotton,nike,advertised,not discounted,gaza
+10,t-shirt,black ,silk,Louis Vuitton ,advertised,discounted,betai
+11,trouser,white,  linen,Hermes,advertised,not discounted,jenen
+12,hat,yellow,  wool,Zalando,not advertised,not discounted,nablus
+13,t-shirt,orange,  chiffon,Zara,not advertised,discounted,ramallah
+14,t-shirt,green,  acrylic,Dior,advertised,not discounted,gaza
+15,trouser,gray,  organza,adidas,advertised,not discounted,betai
+16,hat,blue,  nylon,nike,advertised,discounted,jenen
+17,trouser,red,cotton,Louis Vuitton ,not advertised,not discounted,nablus
+18,t-shirt,black ,silk,Hermes,not advertised,not discounted,ramallah
+19,t-shirt,white,  linen,Zalando,advertised,discounted,gaza
+20,trouser,yellow,  wool,Zara,advertised,not discounted,betai
+21,hat,orange,  chiffon,Dior,advertised,not discounted,jenen
+23,t-shirt,green,  acrylic,adidas,not advertised,discounted,nablus
+22,t-shirt,gray,  organza,nike,not advertised,not discounted,ramallah
+24,trouser,blue,  nylon,Louis Vuitton ,advertised,not discounted,gaza
+25,hat,red,cotton,Hermes,advertised,discounted,betai
+65,trouser,black ,silk,Zalando,advertised,not discounted,jenen
+55,t-shirt,white,  linen,Zara,not advertised,not discounted,nablus
+44,t-shirt,yellow,  wool,Dior,not advertised,discounted,ramallah
+222,trouser,orange,  chiffon,adidas,advertised,not discounted,gaza
+525,hat,green,  acrylic,nike,advertised,not discounted,betai
+582,t-shirt,gray,  organza,Louis Vuitton ,advertised,discounted,jenen
+235,t-shirt,blue,cotton,Hermes,not advertised,not discounted,nablus
+33,trouser,red,silk,Zalando,not advertised,not discounted,ramallah
+38,hat,black ,  linen,Zara,advertised,discounted,gaza
+39,trouser,white,  wool,Dior,advertised,not discounted,betai
+69,t-shirt,yellow,  chiffon,adidas,advertised,not discounted,jenen
+61,t-shirt,orange,  acrylic,nike,not advertised,discounted,nablus
+60,trouser,green,  organza,Louis Vuitton ,not advertised,not discounted,ramallah
+88,hat,gray,cotton,Hermes,advertised,not discounted,gaza
+99,t-shirt,blue,silk,Zalando,advertised,discounted,betai
+111,t-shirt,red,  linen,Zara,advertised,not discounted,jenen
+101,trouser,black ,  wool,Dior,not advertised,not discounted,nablus
+178,hat,white,  chiffon,adidas,not advertised,discounted,ramallah
+198,trouser,yellow,  acrylic,nike,advertised,not discounted,gaza
+645,t-shirt,orange,  organza,Louis Vuitton ,advertised,not discounted,betai
+574,t-shirt,green,  nylon,Hermes,advertised,discounted,jenen
+225,trouser,gray,cotton,Zalando,not advertised,not discounted,nablus
+3654,hat,blue,silk,Zara,not advertised,not discounted,ramallah
+458,t-shirt,red,  linen,Dior,advertised,discounted,gaza
+24521,t-shirt,black ,  wool,adidas,advertised,not discounted,betai
+562,trouser,white,  chiffon,nike,advertised,not discounted,jenen
+578,hat,yellow,  acrylic,Louis Vuitton ,not advertised,discounted,nablus
+211,trouser,orange,  organza,Hermes,not advertised,not discounted,ramallah
+2365,t-shirt,green,  nylon,Zalando,advertised,not discounted,gaza
+99,t-shirt,gray,cotton,Zara,advertised,not discounted,betai
+90,trouser,blue,silk,Dior,advertised,not discounted,jenen
+98,hat,red,  linen,adidas,not advertised,discounted,nablus
+91,t-shirt,black ,  wool,nike,not advertised,not discounted,ramallah
+92,t-shirt,white,  chiffon,Louis Vuitton ,advertised,not discounted,gaza
+93,trouser,yellow,  acrylic,Hermes,advertised,discounted,betai
+122,hat,orange,  organza,Zalando,advertised,not discounted,jenen
+144,trouser,green,  nylon,Zara,not advertised,not discounted,nablus
+155,t-shirt,gray,cotton,Dior,not advertised,discounted,ramallah
+166,t-shirt,blue,silk,adidas,advertised,not discounted,gaza
+177,trouser,red,  linen,nike,advertised,not discounted,betai
+188,hat,black ,  wool,Louis Vuitton ,advertised,discounted,jenen
+199,t-shirt,white,  chiffon,Hermes,not advertised,not discounted,nablus
+211,t-shirt,yellow,  acrylic,Zalando,not advertised,not discounted,ramallah
+255,trouser,orange,  organza,Zara,advertised,discounted,gaza
+223,hat,green,  nylon,Dior,advertised,not discounted,betai
+522,trouser,gray,cotton,adidas,advertised,not discounted,jenen
+269,t-shirt,blue,silk,nike,not advertised,discounted,nablus
+2878,t-shirt,red,  linen,Louis Vuitton ,not advertised,not discounted,ramallah
+859,trouser,black ,  wool,Hermes,advertised,not discounted,gaza
+895,hat,white,  chiffon,Zalando,advertised,discounted,betai
+485,t-shirt,yellow,  acrylic,Zara,advertised,not discounted,jenen
+262,t-shirt,orange,  organza,Dior,not advertised,not discounted,nablus
+26541,trouser,green,  nylon,adidas,not advertised,not discounted,ramallah
+888,hat,gray,cotton,nike,advertised,not discounted,gaza
+897,trouser,blue,silk,Louis Vuitton ,advertised,discounted,betai
+5862,t-shirt,red,  linen,Hermes,advertised,not discounted,jenen
+5252,t-shirt,black ,  wool,Zalando,not advertised,not discounted,nablus
+3461,trouser,white,  chiffon,Zara,not advertised,discounted,ramallah
+2853,hat,yellow,  acrylic,Dior,advertised,not discounted,gaza
+56964,t-shirt,orange,  organza,adidas,advertised,not discounted,betai
+2122,t-shirt,green,  nylon,nike,advertised,discounted,jenen
+6325,trouser,gray,cotton,Louis Vuitton ,not advertised,not discounted,nablus
+84,hat,blue,silk,Hermes,not advertised,not discounted,ramallah
+77,trouser,red,  linen,Zalando,advertised,discounted,gaza
+74,t-shirt,black ,  wool,Zara,advertised,not discounted,betai
+71,t-shirt,white,  chiffon,Dior,advertised,not discounted,jenen
+75,trouser,yellow,  acrylic,adidas,not advertised,discounted,nablus
+72,hat,orange,  organza,nike,not advertised,not discounted,ramallah
+73,t-shirt,green,  nylon,Louis Vuitton ,advertised,not discounted,gaza
+777,t-shirt,gray,cotton,Hermes,advertised,discounted,betai
+775,trouser,blue,silk,Zalando,advertised,not discounted,jenen
+779,hat,red,  linen,Zara,not advertised,not discounted,nablus
+7751,trouser,black ,  wool,Dior,not advertised,discounted,ramallah
+77526,t-shirt,white,cotton,adidas,advertised,not discounted,gaza
+5574,t-shirt,yellow,silk,nike,advertised,not discounted,betai
